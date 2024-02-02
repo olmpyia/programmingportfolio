@@ -7,7 +7,7 @@
 ## Individual Projects
 
 ### EtchASketch
-OOP graphical game using sound and images for a full user experience 
+uses WASD input
 
 ![Gameplay]()
 
