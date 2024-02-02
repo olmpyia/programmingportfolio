@@ -9,7 +9,7 @@
 ### EtchASketch
 uses WASD input
 
-![Gameplay]()
+![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2011.22.16%20AM.png)
 
 [source Code]()
 
