@@ -6,7 +6,7 @@
 
 ## Individual Projects
 
-### SpaceGame
+### EtchASketch
 OOP graphical game using sound and images for a full user experience 
 
 ![Gameplay]()
@@ -17,3 +17,24 @@ OOP graphical game using sound and images for a full user experience
 ![Conversion](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2011.12.52%20AM.png)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/lbs_to_kg.zip)
+
+### Grade converter
+OOP graphical game using sound and images for a full user experience 
+
+![Gameplay]()
+
+[source Code]()
+
+### Calculator
+OOP graphical game using sound and images for a full user experience 
+
+![Gameplay]()
+
+[source Code]()
+
+### SpaceGame
+OOP graphical game using sound and images for a full user experience 
+
+![Gameplay]()
+
+[source Code]()
