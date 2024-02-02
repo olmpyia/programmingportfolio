@@ -1,6 +1,6 @@
 # Mads McDougal's Programming Portfolio 2024 
 ## Tech Certigication
-*
+* Computer Programming semester 1 
 
 ## Group Project
 
