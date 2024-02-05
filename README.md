@@ -9,7 +9,7 @@
 ### EtchASketch
 uses WASD input
 
-![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2011.22.16%20AM.png)
+![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/etchASketch.zip)
 
@@ -21,7 +21,7 @@ uses WASD input
 ### Grade converter
 OOP graphical game using sound and images for a full user experience 
 
-![UserExperience](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-02%20at%2011.17.12%20AM.png)
+![UserExperience](https://github.com/olmpyia/programmingportfolio/blob/main/images/grades.png)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/grades.zip)
 
