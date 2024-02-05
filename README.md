@@ -9,19 +9,19 @@
 ### EtchASketch
 uses WASD input
 
-![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png)
+![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png?raw=true)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/etchASketch.zip)
 
 ### LBs and KG converter
-![Conversion](https://github.com/olmpyia/programmingportfolio/blob/main/images/coverter.png)
+![Conversion](https://github.com/olmpyia/programmingportfolio/blob/main/images/coverter.png?raw=true)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/lbs_to_kg.zip)
 
 ### Grade converter
 OOP graphical game using sound and images for a full user experience 
 
-![UserExperience](https://github.com/olmpyia/programmingportfolio/blob/main/images/grades.png)
+![UserExperience](https://github.com/olmpyia/programmingportfolio/blob/main/images/grades.png?raw=true)
 
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/grades.zip)
 
