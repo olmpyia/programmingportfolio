@@ -35,6 +35,6 @@ OOP graphical game using sound and images for a full user experience
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience 
 
-![Gameplay]()
+![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-06%20055906.png?raw=true)
 
 [source Code]()
