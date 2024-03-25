@@ -3,6 +3,7 @@
 * Computer Programming semester 1 
 
 ## Group Project
+[Link](https://github.com/olmpyia/GroupProject)
 
 ## Individual Projects
 
