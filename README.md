@@ -4,7 +4,7 @@
 
 ## Group Project
 
-![Gameplay]()
+![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-04-19%20160056.png?raw=true)
 
 [source Code]()
 
