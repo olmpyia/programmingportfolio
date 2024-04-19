@@ -3,7 +3,6 @@
 * Computer Programming semester 1 
 
 ## Group Project
-#PEMDAS
 
 ![Gameplay]()
 
