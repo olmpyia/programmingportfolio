@@ -45,4 +45,4 @@ OOP graphical game using sound and images for a full user experience
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-02-06%20055906.png?raw=true)
 
-[source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/spacegame%20(3).zip)
+[source Code](https://github.com/olmpyia/programmingportfolio/tree/main/src/spacegame/spacegame)
