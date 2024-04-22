@@ -4,15 +4,19 @@
 
 ## Group Project
 
+This was a group project with three other students in my class. We created a 2D platformer where the user has to jump to avoid spikes while collecting power-ups to help survival. 
+
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-04-19%20160056.png?raw=true)
 
 [link to group project repository](https://github.com/olmpyia/GroupProject)
 
 ## Individual Projects
 
-![Gameplay]()
+Study Hero is a game to help players study in a fun way. The user inputs a term and definition in pairs after inputing at least 2 pairs the game can start. The user is then put into a battle screen with one option Attack. To attack means you go into a card table where you have to match the term to the definition. If you get the answer wrong you lose hp, too much hp lost and you lose the game. If you get the answer right then the enemy gets hurt. When you kill an enemy you can get power-ups which can increase your attack and hp. After each enemy the enemies hp and attack increase, eventually a boss enemy will appear which has an increase of attack and hp. 
 
 [link to individual repository](https://github.com/olmpyia/StudyHero)
+
+
 ### EtchASketch
 uses WASD input
 
