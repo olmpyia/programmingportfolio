@@ -10,12 +10,14 @@
 
 ## Individual Projects
 
+
+[link to individual repository](https://github.com/olmpyia/StudyHero)
 ### EtchASketch
 uses WASD input
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png?raw=true)
+[source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/lbs_to_kg.zip)
 
-[link to individual repository]()
 
 ### LBs and KG converter
 ![Conversion](https://github.com/olmpyia/programmingportfolio/blob/main/images/coverter.png?raw=true)
