@@ -6,16 +6,18 @@
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-04-19%20160056.png?raw=true)
 
-[link to group project repository]()
+[link to group project repository](https://github.com/olmpyia/GroupProject)
 
 ## Individual Projects
 
+![Gameplay]()
 
 [link to individual repository](https://github.com/olmpyia/StudyHero)
 ### EtchASketch
 uses WASD input
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png?raw=true)
+
 [source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/lbs_to_kg.zip)
 
 
