@@ -6,7 +6,7 @@
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/Screenshot%202024-04-19%20160056.png?raw=true)
 
-[source Code]()
+[link to group project repository]()
 
 ## Individual Projects
 
@@ -15,7 +15,7 @@ uses WASD input
 
 ![Gameplay](https://github.com/olmpyia/programmingportfolio/blob/main/images/sketch.png?raw=true)
 
-[source Code](https://github.com/olmpyia/programmingportfolio/blob/main/src/etchASketch.zip)
+[link to individual repository]()
 
 ### LBs and KG converter
 ![Conversion](https://github.com/olmpyia/programmingportfolio/blob/main/images/coverter.png?raw=true)
